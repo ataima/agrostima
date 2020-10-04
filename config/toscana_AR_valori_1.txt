@@ -1,0 +1,19 @@
+seminativo:16000
+seminativo irriguo:23000
+seminativo arborato:16000
+frutteto a frutta temperata:18000
+castagneto da frutto:5000
+vigneto	senza denominazione:24000
+vigneto impianti specializzati DOC/IGT(DOP/IGP):43500
+oliveto specializzato senza marchio geografico:20500
+oliveto specializzato IGP:22500
+oliveto-vigneto:*
+orti estensivi o familiari con sistemi d'irrigazione semplici:45000
+orti intensivi con sistema irrigui avanzati:135000
+erbe aromatiche/officinali e spezie:-
+pascolo:2600
+silvicoltura bosco ceduo:4000
+silvicoltura bosco alto fusto:4600      
+silvicoltura arboreto latifoglie da legno (2080/92):*
+tartufaia:-
+terreno inadatto alla coltivazione:400 

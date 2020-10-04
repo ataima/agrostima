@@ -1,0 +1,28 @@
+Arcidosso:1
+Campagnatico:2
+Capalbio:3
+Castel del Piano:4
+Castell'Azzara:5
+Castiglione:6
+Cinigiano:7
+Civitella Paganico:1
+Follonica:2
+Gavorrano:3
+Grosseto:4
+Isola del Giglio:5
+Magliano in Toscana:6
+Manciano:7
+Massa Marittima:1
+Monte Argentario:2
+Monterotondo Marittimo:3
+Montieri:4
+Orbetello:5
+Pitigliano:6
+Roccalbegna:7
+Roccastrada:1
+Santa Fiora:2
+Scansano:3
+Scarlino:4
+Seggiano:6
+Semproniano:6
+Sorano:7

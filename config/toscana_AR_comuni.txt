@@ -1,0 +1,44 @@
+Bibbiena:1
+Castel Focognano:1
+Castel San Niccolò:1
+Chitignano:1
+Chiusi della Verna:1
+Montemignaio:1
+Ortignano Raggiolo:1
+Poppi:1
+Pratovecchio:1
+Stia:1
+Subbiano:1
+Talla:1
+Pratovecchio Stia:1
+Senio:1
+San Godenzo:1
+Badia Tedalda:2
+Caprese Michelangelo:2
+Pieve Santo Stefano:2
+Sestino:2
+Bucine:3
+Capolona:3
+Castel Franco di Sopra:3
+Castiglion Fibocchi:3
+Cavriglia:3
+Loro Ciuffenna:3
+Montevarchi:3
+Pergine Valdarno:3
+Piandisco:3
+San Giovanni Valdarno:3
+Terranuova Bracciolini:3
+Castelfranco Piandiscò:3
+Laterina Pergine Valdarno:3
+Anghiari:4
+Monterchi:4
+San Sepolcro:4
+Civitella in Val di Chiana:5
+Foiano della Chiana:5
+Lucignano:5
+Marciano della Chiana:5
+Monte San Savino:5
+Castiglion Fiorentino:6
+Cortona:6
+Arezzo:7
+

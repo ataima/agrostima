@@ -1,0 +1,20 @@
+seminativo:11500
+seminativo irriguo:18000
+seminativo arborato:11500
+frutteto a frutta temperata:22000
+castagneto da frutto:2600
+vigneto	senza denominazione:38000
+vigneto impianti specializzati DOC/IGT (DOP/IGP):60000
+vigneto impianti specializzati Brunello di Montalcino DOCG:450000
+oliveto:22500
+oliveto-vigneto:20000
+orti estensivi o familiari con sistemi d'irrigazione semplici:21000
+orti intensivi con sistema irrigui avanzati:100000
+erbe aromatiche/officinali e spezie:-
+pascolo:1200
+silvicoltura bosco ceduo:2500
+silvicoltura bosco alto fusto:3750
+silvicoltura bosco faggete e pinete (alto fusto):5900
+silvicoltura arboreto latifoglie da legno (2080/92):*
+tartufaia:-
+terreno inadatto alla coltivazione:450

@@ -1,0 +1,20 @@
+seminativo:12000
+seminativo irriguo:18000
+seminativo arborato:12500
+frutteto a frutta temperata:25000
+castagneto da frutto:3000
+vigneto	senza denominazione:33000
+vigneto impianti specializzati DOC/IGT (DOP/IGP):50000
+vigneto impianti specializzati Chianti Classico DOCG:95000
+oliveto:25000
+oliveto-vigneto:23000
+orti estensivi o familiari con sistemi d'irrigazione semplici:26000
+orti intensivi con sistema irrigui avanzati:110000
+erbe aromatiche/officinali e spezie:-
+pascolo:1500
+silvicoltura bosco ceduo:2500
+silvicoltura bosco alto fusto:3750
+silvicoltura bosco faggete e pinete (alto fusto):5900
+silvicoltura arboreto latifoglie da legno (2080/92):*
+tartufaia:-
+terreno inadatto alla coltivazione:500

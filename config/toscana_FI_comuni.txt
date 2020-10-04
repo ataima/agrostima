@@ -1,0 +1,41 @@
+Firenzuola:1
+Londa:1
+Marradi:1
+Palazzuolo sul Senio:1
+San Godenzo:1
+Pelago:2
+Reggello:2
+Barberino di Mugello:3
+Borgo San Lorenzo:3
+Dicomano:3
+Pontassieve:3
+Rufina:3
+Vaglia:3
+Vicchio:3
+Scarperia e San Piero:3
+Calenzano:4
+Campi Bisenzio:4
+Capraia e Limite:4
+Lastra a Signa:4
+Montelupo fiorentino:4
+Signa:4
+Vinci:4
+Bagno a Ripoli:5
+Scandicci:5
+Fiesole:5
+Firenze:5
+Impruneta:5
+Sesto Fiorentino:5
+Barberino Tavarnelle:6
+Castelfiorentino:6
+Certaldo:6
+Gambassi terme:6
+Montaione:6
+Greve in Chianti:7
+Montespertoli:7
+San Casciano Val di Pesa:7
+Figline e Incisa Val d'Arno:8
+Rignano sull'Arno:8
+Cerreto Guidi:9
+Empoli:9
+Fucecchio:9

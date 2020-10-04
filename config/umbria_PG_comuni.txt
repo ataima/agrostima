@@ -1,0 +1,59 @@
+Perugia:1
+Foligno:2
+Città di Castello:3
+Spoleto:4
+Gubbio:5
+Assisi:1
+Bastia Umbra:2
+Corciano:3
+Marsciano:4
+Todi:5
+Umbertide:1
+Castiglione del Lago:2
+Gualdo Tadino:3
+Magione:4
+San Giustino:5
+Deruta:1
+Spello:2
+Trevi:3
+Città della Pieve:4
+Torgiano:5
+Gualdo Cattaneo:1
+Nocera Umbra:2
+Passignano sul Trasimeno:3
+Montefalco:4
+Panicale:5
+Bevagna:1
+Norcia:2
+Bettona:3
+Cannara:4
+Giano dell'Umbria:5
+Tuoro sul Trasimeno:1
+Massa Martana:2
+Piegaro:3
+Citerna:4
+Collazzone:5
+Valfabbrica:1
+Castel Ritaldi:2
+Cascia:3
+Fossato di Vico:4
+Campello sul Clitunno:5
+Sigillo:1
+Pietralunga:2
+Fratta Todina:3
+Montone:4
+Monte Castello di Vibio:5
+Valtopina:1
+Scheggia e Pascelupo:2
+Costacciaro:3
+Monte Santa Maria Tiberina:4
+Sellano:5
+Cerreto di Spoleto:1
+Paciano:2
+Preci:3
+Lisciano Niccone:4
+Monteleone di Spoleto:5
+Sant'Anatolia di Narco:1
+Scheggino:2
+Vallo di Nera:3
+Poggiodomo:4
