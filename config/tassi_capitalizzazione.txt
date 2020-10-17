@@ -1,4 +1,0 @@
-Seminativo:25
-Ortaggi:30
-Erbe aromatiche/officinali/spezie:45
-Floricoltura:50
